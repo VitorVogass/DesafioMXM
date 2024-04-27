@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Domain"
+namespace="Domain.Entity">
+  <class name="Empresa" table="EMPRESA" lazy="true">
+    <id name="Codigo" column="CODIGO" type="integer" >
+    </id>
+    <property name="Nome" column="NOME" type="string" />
+    <property name="Endereco" column="ENDERECO" type="string"/>
+    <property name="Bairro" column="BAIRRO" type="string"/>
+    <property name="Cidade" column="CIDADE" type="string"/>
+    <property name="UnidadeFederativa" column="UF" type="string"/>
+    <property name="CEP" column="CEP" type="string"/>
+    <property name="TEL" column="TEL" type="string"/>
+    <property name="InscricaoEstadual" column="INSCRICAO" type="integer"/>
+    <property name="NumeroLancamentoContabil" column="LCTB" type="integer"/>
+    <property name="Contador" column="CONTADOR" type="string"/>
+    <property name="PercentualISS" column="PERCISS" type="decimal"/>
+    <property name="IPI" column="IPI" type="integer" /> 
+    <property name="Industrial" column="INDUSTRIAL" type="integer"/>
+    <property name="MoedaCorrente" column="MOEDACOR" type="money"/>
+    <property name="TOTPagImp" column="TOTPAGIMP" type="string"/>/>
+    <property name="TipoNegocio" column="TIPNEGOCIO" type="string"/>/>
+    <property name="NumeroRegistro" column="NOREGISTRO" type="string"/>/>
+    <property name="NomeResponsavel" column="NOMERES" type="string"/>/>
+    <property name="CargoResposavel" column="CARGORES" type="string"/>/>
+    <property name="CPFResponsavel" column="CPFRES" type="integer"/>/>
+    <many-to-one name="CodigoCentroCustos" class= "Domain.Contabilidade.Entity.PlanoCentroCustos" column="CODCENTCUS" cascade="save-update"/>
+    <many-to-one name="CODFluxoCaixa" class= "Domain.Financeiro.Entity.PlanoFluxoCaixa" column="CODFC" cascade="save-update"/>    
+	<many-to-one name="CodigoPlanoOrcamento" class= "Domain.Orcamento.Entity.PlanoDeContasOrcamentario" column="CODPLORCA" cascade="save-update"/>
+    <property name="IncricaoMunicipal" column="INSCMUNIP"/>
+    <many-to-one name="SegundaMoedaEmpresa" class= "Domain.Entity.Moeda" column="SEGMOEDAEMP" cascade="save-update"/>
+    <property name="CDCidade" column="CDCIDADE"/>
+    <bag name="GestorOrcamentarioList" lazy="true" cascade="all-delete-orphan" inverse="true">
+      <key column="ORCARESA" />
+      <one-to-many class="Domain.Orcamento.Entity.GestorOrcamentario" />
+    </bag>
+  </class>
+</hibernate-mapping>

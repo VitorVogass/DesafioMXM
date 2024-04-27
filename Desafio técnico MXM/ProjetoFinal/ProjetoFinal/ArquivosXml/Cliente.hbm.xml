@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Domain"
+namespace="Domain.Entity">
+	<class name="Cliente" table="CLIENTE" lazy="true">
+		<id name="Codigo" column="CODIGO" type="integer" >
+		</id>
+		<property name="CodigoGrupo" column="CDGRUPO" type="integer" />
+		<property name="Profissao" column="PROFISSAO" type="string" />
+		<property name="Ativo" column="ATIVO" type="boolean" />
+		<property name="DataMov" column="DTMOV" type="timestamp" />
+		<property name="NomeFantasia" column="NOMEFANT" type="string" />
+		<property name="InscricaoMunicipal" column="INSCMUNIC" type="integer" />
+		<property name="Exp" column="EXP" type="string" />
+		<property name="Nome" column="NOME" type="string" />
+		<property name="EstadoCivil" column="ESTCIV" type="character" />
+		<property name="MicroEmpresa" column="MICROEMPRESA" type="boolean" />
+		<property name="DataInativo" column="DTINATIVO" type="timestamp" />
+		<property name="GrupoEmpresarial" column="GRPEMPRESARIAL"  type="string" />
+		<property name="ComplementoEndereco" column="COMPLEMENTOENDERECO"  type="string" />
+		<property name="DataExp" column="DTEXP" type="timestamp" />
+		<property name="TipoPessoa" column="TIPOPESSOA" type="string" />
+		<property name="Endereco" column="ENDERECO" type="string" />
+		<property name="Email" column="EMAIL"  type="string" />
+		<property name="Numendereco" column="NUMENDERECO" type="integer" />
+		<property name="Pais" column="PAIS"  type="string" />
+		<property name="Endereco1" column="ENDERECO1"  type="string" />
+		<property name="Contato" column="CONTATO" type="string" />
+		<property name="DataNasc" column="DTNASC" type="timestamp" />
+		<property name="Cidade" column="CIDADE"  type="string" />
+		<property name="Telefone" column="TELEFONE" type="string" />
+		<property name="DataCad" column="DTCAD" type="timestamp" />
+		<property name="IndicadorIE" column="IndicadorIE" type="integer" />
+		<property name="CodigoNacionalidade" column="CDNACIONALIDADE" type="integer" />
+		<property name="CodigoPais" column="CDPAIS" type="integer" />
+		<property name="TipoEntrega" column="TPENTREGA" type="integer" />
+		<property name="Cgc" column="CGC" type="integer" />
+		<property name="DataAlt" column="DTALT" type="timestamp" />
+		<property name="Uf" column="UF" type="string" />
+		<property name="Cep" column="CEP" type="string" />
+		<property name="Bairro" column="BAIRRO" type="string" />
+		<property name="RazaoSocialCompleta" column="NMRAZAOSOCIALCOM" type="string" />
+		<property name="DataAbertura" column="DTABERTURA" type="timestamp"/>
+		<many-to-one name="CNAEPrincipal" class= "Domain.Entity.CNAE" column="IDCNAEPRINCIPAL" />
+		<many-to-one name="NaturezaJuridica" class= "Domain.Entity.NaturezaJuridica" column="IDNATJURIDICA"/>
+		<many-to-one name="SituacaoCadastral" class= "Domain.Entity.SituacaoCadastral" column="IDSITCADASTRAL" />
+		<many-to-one name="SituacaoEspecial" class= "Domain.Entity.SituacaoEspecial" column="IDSITESPECIAL" />
+		<many-to-one name="PorteEmpresarial" class= "Domain.Entity.PorteEmpresarial" column="IDPORTEEMP" />
+	</class>
+</hibernate-mapping>
