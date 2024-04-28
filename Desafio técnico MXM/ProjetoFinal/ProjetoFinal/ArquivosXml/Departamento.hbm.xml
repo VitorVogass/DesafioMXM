@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Domain"
+namespace="Domain.Entity">
+  <class name="Departamento" table="DEPARTAMENTO" lazy="true">
+    <id name="Codigo" column="CODDEPARTAMENTO" type="integer" >
+    </id>
+    <property name="Nome" column="NOME" type="string" />
+    <many-to-one name="Empresa" class="Domain.Entity.Empresa" column="CODEMPRESA" />
+  </class>
+</hibernate-mapping>

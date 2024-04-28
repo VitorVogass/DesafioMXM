@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Domain"
+  namespace="Domain.Entity">
+	<class name="ItemPedido" table="ITEMPEDIDO" lazy="true" type="integer">
+		<composite-id>
+			<key-property name="Pedido" class="Domain.Entity.Pedido" column="CODPEDIDO" type="integer" />
+			<key-property name="Produto" class="Domain.Entity.Produto" column="CODPRODUTO" type="integer" />
+		</composite-id>
+		<property name="Quantidade" column="QUANTIDADE" type="integer" />
+		<property name="ValorUnitario" column="VALORUNITARIO" type="money" />
+	</class>
+</hibernate-mapping>

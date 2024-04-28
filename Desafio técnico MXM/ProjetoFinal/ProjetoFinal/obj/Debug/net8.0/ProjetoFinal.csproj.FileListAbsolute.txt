@@ -1,0 +1,52 @@
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.exe
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoF.55FE4514.Up2Date
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\refint\ProjetoFinal.dll
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.pdb
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.deps.json
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.runtimeconfig.json
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.pdb
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\vitor\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ref\ProjetoFinal.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoF.55FE4514.Up2Date
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\refint\ProjetoFinal.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Desafio técnico MXM\ProjetoFinal\ProjetoFinal\obj\Debug\net8.0\ref\ProjetoFinal.dll
