@@ -44,6 +44,8 @@ Avisos
 - Este programa não realiza validações avançadas nos arquivos XML. Certifique-se de que seus arquivos de mapeamento estejam corretamente formatados.
 Os tipos de dados de mapeamento do NHibernate são mapeados para tipos de dados do C# conforme especificado no código. Verifique se os tipos de dados resultantes atendem às suas necessidades.
 
-- Este programa foi projetado para facilitar a integração entre sistemas que usam NHibernate e o Entity Framework. Certifique-se de revisar e ajustar as classes de entidade geradas conforme necessário para atender aos requisitos específicos do seu projeto.
+- Este programa foi projetado para facilitar a integração entre sistemas que usam NHibernate e o Entity Framework. Certifique-se de revisar e ajustar as classes de entidade geradas caso necessário para atender aos requisitos específicos do seu projeto.
 
-- A criação desse programa teve inciativa em um desafio técnico proposto ao desenvolvedor se você encontrar problemas durante a execução do programa ou tiver dúvidas sobre como configurar ou usar o conversor, consulte a seção de "Problemas Conhecidos" ou entre em contato comigo para obter assistência adicional.
+- A criação desse programa teve inciativa em um desafio técnico proposto ao desenvolvedor se você encontrar problemas durante a execução do programa ou tiver dúvidas sobre como configurar ou usar o conversor, entre em contato comigo.
+
+- No arquivo do projeto há duas pastas já destinadas a serem o diretório de entrada e o diretório de saída como exemplo.
